@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Einleitung}{2}% 
+\contentsline {section}{\numberline {2}Motivation}{2}% 
+\contentsline {section}{\numberline {3}Stand der Technik}{2}% 
+\contentsline {section}{\numberline {4}L\"osen der Maxwellgleichungen durch die FDTD-Methode}{3}% 
+\contentsline {subsection}{\numberline {4.1}Maxwellgleichungen}{3}% 
+\contentsline {subsection}{\numberline {4.2}Mathematische Stabilit\"atsbedingungen f\"ur finite Differenzen}{6}% 
+\contentsline {subsection}{\numberline {4.3}Anwenden der FDTD auf die Maxwellgleichungen}{7}% 
+\contentsline {subsection}{\numberline {4.4}Physikalische Stabilit\"atsbedingungen f\"ur finite Differenzen}{12}% 
+\contentsline {subsection}{\numberline {4.5}Geometrie in der FDTD}{13}% 
+\contentsline {subsection}{\numberline {4.6}Quellen in der FDTD-Methode}{14}% 
+\contentsline {subsection}{\numberline {4.7}Numerisches Randwertproblem}{15}% 
+\contentsline {subsection}{\numberline {4.8}Perfectly Matched Layer (PML)}{15}% 
+\contentsline {section}{\numberline {5}Implementierung der FDTD}{24}% 
+\contentsline {subsection}{\numberline {5.1}OpenCL}{24}% 
+\contentsline {subsection}{\numberline {5.2}Implementieren der Dirichlet-Randbedingung}{25}% 
+\contentsline {subsection}{\numberline {5.3}Implementierung f\"ur einen Zeitschritt}{26}% 
+\contentsline {subsection}{\numberline {5.4}Implementierung f\"ur mehrere Zeitschritte}{28}% 
+\contentsline {section}{\numberline {6}Benchmarking}{34}% 
+\contentsline {section}{\numberline {7}Simulation einer \(\lambda \)-Dipolantenne}{35}% 
+\contentsline {section}{\numberline {8}Zusammenfassung und Ausblicke}{39}% 

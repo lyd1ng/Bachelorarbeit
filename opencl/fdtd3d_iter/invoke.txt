@@ -1,0 +1,1 @@
+./main --usize 62 --samplerate_space 10 --samplerate_time 10 --max_time 100 --ramped_sin_length 10 --ramped_sin_amplitude 1 --ramped_sin_frequency 2400000000
